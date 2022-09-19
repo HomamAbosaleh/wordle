@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999555323154",
+    "project_id": "wordle-e58a6",
+    "storage_bucket": "wordle-e58a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999555323154:android:89d80c1603cce885e18fcb",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999555323154-oa0e87fs3fk89iattgimd53msr4jtsn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1ev_YZA4C6Hbcdtv68crkcZhbbklFFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999555323154-oa0e87fs3fk89iattgimd53msr4jtsn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
