@@ -159,6 +159,9 @@ class _StateWidgetState extends State<StateWidget> with WidgetsBindingObserver {
         colorizeLetter(-1, digitInput.controller.text);
       }
     }
+    if (listOfInputGrid.indexOf(inputGrid) == listOfInputGrid.length - 1) {
+      lockKeyboard = true;
+    }
 
     setState(() {
       searching = false;
