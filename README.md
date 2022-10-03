@@ -5,17 +5,18 @@ In this project, I made Wordle game clone using flutter in Turkish Language.
 
 Here is how a wordle of four letters looks like:
 
-https://user-images.githubusercontent.com/78610531/193551285-f713748a-7055-4f3d-ad91-2c6e2d7aee05.png
+![four_letters](https://user-images.githubusercontent.com/78610531/193554077-07e13a52-862f-43b1-adc1-cc8fb174302a.png)
 
 
 Another possible wordle is five-letter wordle:
 
-https://user-images.githubusercontent.com/78610531/193551381-7497a0fb-5c8b-476a-a2f4-beda253c1187.png
+![five_letters](https://user-images.githubusercontent.com/78610531/193554023-e8e4a4bd-a7d4-40f7-8362-233b5cb4e70a.png)
 
 
 When a user loses the game, the app will show the wordle of the day and a timer for next wordle:
 
 https://user-images.githubusercontent.com/78610531/193551439-12b147ed-9268-443b-b260-94db6f477cdd.mp4
+
 
 The same applies when he wins:
 
